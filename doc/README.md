@@ -1,8 +1,8 @@
-# `<TODO: Replace with Project Title>`
+# `<reactiongame>`
 
 ## Short Project Description
 
-> [!NOTE]
+> [!]
 > **TODO**: Replace this note with a short description of your project.  
 > A detailed description should be found in the concept document (see below).
 
@@ -14,7 +14,7 @@ See [Concept Document](./doc/concept.md).
 
 ## Team
 
-> [!Note]
+> [Omeragic: , Starzengruber: , Schernthaner: ]
 > Replace this note with a short team description (mebers and their main responsibilites/tasks).
 
 ### Progress Report(s)
@@ -47,7 +47,7 @@ See [Manual](./doc/manual.md)
 > [!Note]
 > If the project is for the "Tag derr offenen Tuer" (TdoT), you should create a poster (and maybe a flyer).  
 > See this [Template](
-  https://linzertechnikum.sharepoint.com/:w:/r/sites/LiTec-Docs/Freigegebene%20Dokumente/General/Oeffentlichkeitsarbeit/Plakate/Vorlage_IT_rot.dotx?d=w38f37a511d974af781a6a54cfa643a61&csf=1&web=1&e=0JrAuY).
+>   https://linzertechnikum.sharepoint.com/:w:/r/sites/LiTec-Docs/Freigegebene%20Dokumente/General/Oeffentlichkeitsarbeit/Plakate/Vorlage_IT_rot.dotx?d=w38f37a511d974af781a6a54cfa643a61&csf=1&web=1&e=0JrAuY).
 > Remove this note (or the whole optional stuff section).
 
 - [Poster](./doc/poster.pdf)
@@ -62,7 +62,3 @@ See [Manual](./doc/manual.md)
 \doc\ ... folder with all relevant project documents (concept, manual, project reports, ...)
 \src\ ... folder for all kind of source code (tryouts: in sandbox subfolder or branching)
 ```
-
-
-
-
